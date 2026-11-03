@@ -1,25 +1,3 @@
-## 接毕业设计和论文
-
-### 作者微信：vvsgxmn  (支持修改、 部署调试、 支持代做毕设)
-
-### 接网站建设、小程序
-
-### 选题+开题报告+任务书+程序定制+安装调试+论文+答辩ppt 都可以做
-
-### 购买地址：[https://www.vvxx.love](https://www.vvxx.love)（vv毕设网）
-
-### 支持 **一键生成 UML 图**：上传项目压缩包即可自动产出功能模块图、用例图、流程图、E-R 图、时序图等全套毕设图表。
-
-### 提供 **免费配套软件下载 + 安装说明 + 部署教程**
-
-![vv毕设网 - 一键画图](https://fanhua-yingcai.oss-cn-shanghai.aliyuncs.com/uml-draw.png)
-
-<img src="https://fanhua-yingcai.oss-cn-shanghai.aliyuncs.com/image-20260825133349317.png" alt="image-20260825133349317" />
-
-⚠️ Bug添加微信**免费修复**，免费修复。其他平台的私信一律不管（微信方便发送文件）
-
----
-
 # 基于SpringBoot+Vue的体育馆预约系统
 
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white) ![Vue3](https://img.shields.io/badge/-Vue3-grey?style=flat-square) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MyBatis](https://img.shields.io/badge/-MyBatis-000000?style=flat-square&logo=mybatis&logoColor=white) 
@@ -75,3 +53,23 @@ StadiumReservation 是一款面向综合体育馆的数字化预约运营平台�
 <img src="https://fanhua-yingcai.oss-cn-shanghai.aliyuncs.com/AutoUpload/screenshots/stadiumreservation/%E8%AE%BA%E6%96%87%E5%9B%BE2.png" alt="论文图2" width="600" />
 
 <!-- screenshots-end -->
+
+## 接毕业设计和论文
+
+### 作者微信：vvsgxmn  (支持修改、 部署调试、 支持代做毕设)
+
+### 接网站建设、小程序
+
+### 选题+开题报告+任务书+程序定制+安装调试+论文+答辩ppt 都可以做
+
+### 购买地址：[https://www.vvxx.love](https://www.vvxx.love)（vv毕设网）
+
+### 支持 **一键生成 UML 图**：上传项目压缩包即可自动产出功能模块图、用例图、流程图、E-R 图、时序图等全套毕设图表。
+
+### 提供 **免费配套软件下载 + 安装说明 + 部署教程**
+
+![vv毕设网 - 一键画图](https://fanhua-yingcai.oss-cn-shanghai.aliyuncs.com/uml-draw.png)
+
+<img src="https://fanhua-yingcai.oss-cn-shanghai.aliyuncs.com/image-20260825133349317.png" alt="image-20260825133349317" />
+
+⚠️ Bug添加微信**免费修复**，免费修复。其他平台的私信一律不管（微信方便发送文件）
